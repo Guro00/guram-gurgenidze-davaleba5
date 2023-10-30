@@ -25,6 +25,11 @@
 .hash2 {
 	color: #4E6FAE;
 	margin: 20px 30px 15px 20px;
+	font-family: "ALK Life", sans-serif;
+	font-size: 22px;
+	font-family: "Arial GEO Bold", sans-serif;
+
+
 
 }
 .pi1 {
@@ -32,8 +37,11 @@
 	vertical-align: top;
   width: 778px;
   height: 280px;  
-  size: 50px;
+  font-size: 20px;
   color: #4E6FAE;
+  font-family: "ALK Tall Mtavruli", sans-serif;
+
+
 }
 .meore {
 	background-color: #5012D5;
@@ -54,6 +62,8 @@
 	height: 34px;
 	color: #4E6FAE;
 	margin: 20px 30px 0px 20px;
+	font-family: "Arial GEO Bold", sans-serif;
+
 }
 .imiji1 {
 	width: 447px;
@@ -64,12 +74,14 @@
 .pi2 {
 	width: 778px;
 	height: 280px;
-	size: 16px;
+	font-size: 22px;
 	color: #4E6FAE;
 	top: 380px;
 	left: -244px;
 	display: inline-block;
 	vertical-align: top;
+	font-family: "ALK Life", sans-serif;
+
 }
 .mesame {
 		background-color: #5012D5;
@@ -90,6 +102,8 @@
 	height: 34px;
 	color: #4E6FAE;
 	margin: 20px 30px 0px 20px;
+	font-family: "Arial GEO Bold", sans-serif;
+
 }
 .imiji2 {
 	width: 447px;
@@ -99,12 +113,15 @@
 .pi3 {
 	width: 778px;
 	height: 280px;
-	size: 16px;
+	size: 10px;
 	color: #4E6FAE;
 	top: 380px;
 	left: -244px;
 	vertical-align: top;
 	padding: 20px;
+	font-family: "BPG Mrgvlovani", sans-serif;
+	font-size: 20px;
+
 }
 .imiji3 {
 	width: 50px;
@@ -134,18 +151,26 @@
 	width: 115px;
 	height: 34px;
 	margin: 0px 50px;
+	font-family: "BPG Mrgvlovani", sans-serif;
+	color: blueviolet;
+
 }
 .a2 {
 	display: inline-block;
 	width: 150px;
 	height: 34px;
 	margin: 0px 50px;
+	font-family: "BPG Mrgvlovani", sans-serif;
+	color: blueviolet;
+	size: 80px;
 }
 .a3 {
 	display: inline-block;
 	width: 133px;
 	height: 34px;
 	margin: 0px 50px;
+	font-family: "BPG Mrgvlovani", sans-serif;
+	color: blueviolet;
 }
 nav {
 	display: inline-block;
